@@ -10,3 +10,12 @@ markdown: kramdown
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+ - README.md
+ - RNS_stability.md
