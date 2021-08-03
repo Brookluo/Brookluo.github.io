@@ -8,7 +8,7 @@
 - [C01s17 0610](../data/rns_stability/C01s17_0610.nbconvert.html) No perturbation, model C01s17
 - [C01s17 0621](../data/rns_stability/C01s17_0621.nbconvert.html) No perturbation, model C01s17
 - [C01s17 0624](../data/rns_stability/C01s17_0624.nbconvert.html) No perturbation, model C01s17
-- [C01s17 0704](../data/rns_stability/C01s17_0704.nbconvert.html) [code](..data/rns_stability/C01s17_0704_code.html) No perturbation, model C01s17
+- [C01s17 0704](../data/rns_stability/C01s17_0704.nbconvert.html) [code](../data/rns_stability/C01s17_0704_code.html) No perturbation, model C01s17
 
 
 ### C01s01
