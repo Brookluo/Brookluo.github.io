@@ -25,6 +25,7 @@
 - [C01s17 0419 numvel A12](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A12_0419_0.html) numerically perturbed, A=-1.2 omega, run count: 1
 - [C01s17 0419 numvel A11](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A11_0425_0.html) numerically perturbed, A=-1.1 omega, run count: 1
 - [C01s17 0419 switch rxry](http://physics.uwyo.edu/~brook/rns_nb/C01s17_switch_rxry_0419_1.html) switch Rx and Ry for perturbation (not for initial data and grid construction). run count: 2
+
 ### C019s08
 <!-- - [C019s08 0624](../data/rns_stability/C019s08_0624.html) -->
 - [C019s08 0704](../data/rns_stability/C019s08_0704_8.html) [code](../data/rns_stability/C019s08_0704_8_code.html) run count: 8 
@@ -33,3 +34,7 @@
 
 ### Comparisions
 - [nonperturb, analytical perturb, numerical perturb](http://physics.uwyo.edu/~brook/rns_img/)
+
+
+### Velocity perturbation document
+- [RNS velocity perturb](../data/rns_stability/velocity_perturb.html)
