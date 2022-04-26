@@ -19,8 +19,11 @@
 - [C01s17 1005](../data/rns_stability/C01s17_1005_5.html) [code](../data/rns_stability/C01s17_1005_5_code.html) 5% press depletion perturbation, model C01s17, run count: 6
 - [C01s17 vel perturb](../data/rns_stability/C01s17_vel_workstation.html) model C01s17 with velocity perturbation to have 0 initial rotaion running on workstatiion, run count: 1
 - [C01s17 1129 vel perturb](../data/rns_stability/Baikal_ILGRMHD_C01s17_dedekind_1129_2.html) [code](../data/rns_stability/Baikal_ILGRMHD_C01s17_dedekind_1129_2_code.html) Dedekind ellipsoid, model C01s17, run count: 3
-- [C01s17 0412 numvel perturb](http://physics.uwyo.edu/~brook/rns_nb/) numerically perturbed
-- [C01s17 0412 analy perturb](http://physics.uwyo.edu/~brook/rns_nb/) analytically perturbed
+- [C01s17 0412 numerical vel perturb](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_0412_2.html) numerically perturbed, run count: 3
+- [C01s17 0412 analytical perturb](http://physics.uwyo.edu/~brook/rns_nb/C01s17_analvel_0412_2.html) analytically perturbed, run count: 3
+- [C01s17 0419 numvel A12](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A12_0419_0.html) numerically perturbed, A=-1.2 omega, run count: 1
+- [C01s17 0419 numvel A15](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A15_0419_0.html) numerically perturbed, A=-1.5 omega, run count: 1
+- [C01s17 0419 switch rxry](http://physics.uwyo.edu/~brook/rns_nb/C01s17_switch_rxry_0419_1.html)
 
 ### C019s08
 <!-- - [C019s08 0624](../data/rns_stability/C019s08_0624.html) -->
