@@ -25,6 +25,9 @@
 - [C01s17 0419 numvel A12](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A12_0419_0.html) numerically perturbed, A=-1.2 omega, run count: 1
 - [C01s17 0419 numvel A11](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A11_0425_0.html) numerically perturbed, A=-1.1 omega, run count: 1
 - [C01s17 0419 switch rxry](http://physics.uwyo.edu/~brook/rns_nb/C01s17_switch_rxry_0419_1.html) switch Rx and Ry for perturbation (not for initial data and grid construction). run count: 2
+- [C01s17 numvel A08 0508](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_A08_0508/) Update: 05/24. Setting A=-0.8 omega, run count 2
+- [C01s17 numvel B11 0508](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_B11_0508/) Update: 05/17. Setting B=1.1 omega, run count 2
+- [C01s17 numvel A075 0508](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_A075_0523/) Update: 05/24. Setting A=-0.75 omega, run count 1
 
 ### C019s08
 <!-- - [C019s08 0624](../data/rns_stability/C019s08_0624.html) -->
