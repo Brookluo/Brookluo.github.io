@@ -52,7 +52,7 @@
 
 - [RNS velocity perturb](../data/rns_stability/velocity_perturb.html)
 
-### Todo items
+### Meeting notes
 
-06/23
-[]
+[Meeting notes link](https://docs.google.com/document/d/1AVJrJAFOiO3n9h6P8y7qucc_YC45Wixqd-m5RfAD17I/edit?usp=sharing)
+
