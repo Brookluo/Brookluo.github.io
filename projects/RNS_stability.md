@@ -49,6 +49,7 @@
 
 
 ### Velocity perturbation document
+<<<<<<< HEAD
 
 - [RNS velocity perturb](../data/rns_stability/velocity_perturb.html)
 
@@ -56,3 +57,6 @@
 
 06/23
 []
+=======
+- [RNS velocity perturb](../data/rns_stability/velocity_perturb.html)
+>>>>>>> 56d3e9f1526e4f02e7bb170f6dfdfb1643670a1e
