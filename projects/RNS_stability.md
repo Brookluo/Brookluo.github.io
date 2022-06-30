@@ -17,9 +17,9 @@
 - [C01s17 0704](../data/rns_stability/C01s17_0704_9.html) [code](../data/rns_stability/C01s17_0704_9_code.html) No perturbation, model C01s17, run count: 9
 <!-- - [C01s17 0918](../data/rns_stability/C01s17_0918_3.html) [code](../data/rns_stability/C01s17_0918_0_code.html) 5% press depletion perturbation, model C01s17, run count: 4 -->
 - [C01s17 1005](../data/rns_stability/C01s17_1005_5.html) [code](../data/rns_stability/C01s17_1005_5_code.html) 5% press depletion perturbation, model C01s17, run count: 6
-- [C01s17 vel perturb](../data/rns_stability/C01s17_vel_workstation.html) model C01s17 with velocity perturbation to have 0 initial rotaion running on workstatiion, run count: 1
+- [C01s17 vel perturb](../data/rns_stability/C01s17_vel_workstation.html) model C01s17 with velocity perturbation to have 0 initial rotation running on workstation, run count: 1
 - [C01s17 1129 vel perturb](../data/rns_stability/Baikal_ILGRMHD_C01s17_dedekind_1129_2.html) [code](../data/rns_stability/Baikal_ILGRMHD_C01s17_dedekind_1129_2_code.html) Dedekind ellipsoid, model C01s17, run count: 3
-- [C01s17 0412 numerical vel perturb](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_0412_2.html) numerically perturbed to cancel omega and add differental rotation, run count: 3
+- [C01s17 0412 numerical vel perturb](http://physics.uwyo.edu/~brook/rns_nb/C01s17_numvel_0412_2.html) numerically perturbed to cancel omega and add differential rotation, run count: 3
 - [C01s17 0412 analytical perturb](http://physics.uwyo.edu/~brook/rns_nb/C01s17_analvel_0412_2.html) analytically perturbed, run count: 3
 - [C01s17 0419 numvel A15](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A15_0419_0.html) numerically perturbed, A=-1.5 omega, run count: 1
 - [C01s17 0419 numvel A12](http://physics.uwyo.edu/~brook/rns_nb/C01s17_A12_0419_0.html) numerically perturbed, A=-1.2 omega, run count: 1
@@ -35,6 +35,8 @@
 - [C019s08 0704](../data/rns_stability/C019s08_0704_8.html) [code](../data/rns_stability/C019s08_0704_8_code.html) run count: 8 
 <!-- - [C019s08 0918](../data/rns_stability/C019s08_0918_3.html) [code](../data/rns_stability/C019s08_0918_code.html) 5% press depletion perturbation, model C019s08, run count: 4  -->
 - [C019s08 1005](../data/rns_stability/C019s08_1005_6.html) [code](../data/rns_stability/C019s08_1005_6_code.html) 5% press depletion perturbation, model C019s08, run count: 7 
+- [C019s08 numvel 0627](http://physics.uwyo.edu/~brook/rns_nb/C019s08_numvel_0627/0_C019s08_numvel_0627.html) Update: 06/29. numerically perturbed to cancel omega and add differential rotation (Setting A=-Omega, B=-Omega), run count: 1
+- [C019s08 numvel A075 0627](http://physics.uwyo.edu/~brook/rns_nb/C019s08_numvel_A075_0627/0_C019s08_numvel_A075_0627.html) Update: 06/29. Setting A=-0.75 * Omega, B=-Omega, run count: 1
 
 ### Comparisions
 
@@ -42,11 +44,14 @@
   - [xy plane](http://physics.uwyo.edu/~brook/rns_img/sims_at_xy.png)
   - [xz plane](http://physics.uwyo.edu/~brook/rns_img/sims_at_xz.png)
 - [nonperturb, analytical perturb, numerical perturb, A07, A075, A08]
-<!--  (http://physics.uwyo.edu/~brook/rns_img/case5) -->
   - [xy plane](../data/rns_stability/sims_at_xy_for_all.png)
   - [xz plane](../data/rns_stability/sims_at_xz_for_all.png)
   - [Psi 4](../data/rns_stability/compare_psi4.png)
 
+- [C01s17 nonperturb, C01s17 numerical perturb, C01s17 A075, C019s08 A075]
+  - [xy plane](../data/rns_stability/sims_xy_4cases.png)
+  - [xz plane](../data/rns_stability/sims_xz_4cases.png)
+  - [Psi 4](../data/rns_stability/compare_psi4_4cases.png)
 
 ### Velocity perturbation document
 
