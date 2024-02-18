@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brookluo.github.io/sitemap.xml
+Sitemap: https://Brookluo.github.io/sitemap.xml
