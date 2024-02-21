@@ -21,10 +21,10 @@ social: true # includes social icons at the bottom of the page
 
 :wave:Hi there, welcome to my space! I am a PhD student studying Computational Astrophysics at the University of Wyoming.
 I have a broad interest in the intersection between astronomy and computational science.
-As a current Wyoming resident, I consider myself as a digital cowboy riding on the supercomputers.
+As a current Wyoming resident, I consider myself a digital cowboy riding on the supercomputers.
 
 Growing up near the gorgeous mountains <a href='https://en.wikipedia.org/wiki/Qinling'>Qinling 秦岭 </a>, I am an outdoor adventurist.
-Laramie is surrounded by beautiful mountains, and I enjoy hiking, snowshoeing, and skiing among them.
+My current location, Laramie, is surrounded by beautiful mountains, and I enjoy hiking, snowshoeing, and skiing among them.
 I occasionally post some pictures under the photos section.
 
 My research interests include two general directions: Computational & data-driven astrophysics and High-Performance Computing. I am interested in studying compact objects, such as black holes and neutron stars through simulations. I also explore the physics of quasars and galaxy evolution using data mining and machine learning techniques. I am particularly interested in applying HPC to improve and innovate research directions.
