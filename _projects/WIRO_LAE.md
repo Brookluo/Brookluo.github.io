@@ -28,3 +28,6 @@ Lyman Alpha Emitters (LAEs) are distant, low-mass galaxies with high star format
 ## Summary
 
 We obtained deep imaging of the XMM-LSS field in multiple narrow- and medium-band filters to test the efficiency of these filters for detecting and selecting Lyman Alpha Emitters. We successfully acquired long exposures in the custom C and D filters and selected more than 1000 LAE candidates. The medium band filters require less time than traditional narrow band filters for LAEs targeting.
+
+## iPoster at AAS 241
+[link to my iPoster](https://aas241-aas.ipostersessions.com/?s=E7-03-59-5B-88-87-1F-91-0B-B3-48-41-65-94-EB-94)
