@@ -15,4 +15,4 @@ related_publications: false
   <iframe src="{{ 'assets/plotly/all_3D_interactive.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
 
-Click on this link to access the full interactive plot: [Interactive Plot](https://brookluo.github.io/assets/plotly/all_3D_interactive.html))
+Click on this link to access the full interactive plot: [Interactive Plot](https://brookluo.github.io/assets/plotly/all_3D_interactive.html)
