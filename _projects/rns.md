@@ -8,7 +8,7 @@ category: research
 related_publications: false
 ---
 
-Link to project: [RNS_sim](https://ekohaes8.ncsa.illinois.edu/~luo34/)
+Link to project: [RNS_sim](https://physics.uwyo.edu/~brook/RNS/)
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
