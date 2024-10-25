@@ -12,5 +12,7 @@ related_publications: false
 
 
 <div class="l-page">
-  <iframe src="{{ 'assets/plotly/3D_interactive.html' | relative_url }}" frameborder='0' scrolling='no' height="800px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="{{ 'assets/plotly/all_3D_interactive.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
+
+Click on this link to access the full interactive plot: [Interactive Plot](assets/plotly/all_3D_interactive.html)
