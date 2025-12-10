@@ -26,11 +26,8 @@ We then use a k-Nearest Neighbor (kNN) algorithm to classify the embeddings afte
 Here presented is the 3D interactive tSNE plots for the clustering of the embeddings.
 The original dimension of the embedding vector is 786, which is then reduced to 15 by principle component analysis (PCA). T-SNE algorithm is used to reduce the dimension to 3 (or 2 in the 2D viz) for the visualization.
 
-
 <div class="l-page">
-  <iframe src="{{ 'assets/plotly/all_3D_interactive.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
+  <iframe src="{{ 'assets/plotly/bad_exposure/all_3D_interactive.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
 </div>
 
-Click on this link to access the full interactive plot: [Interactive Plot](https://brookluo.github.io/assets/plotly/all_3D_interactive.html)
-
-
+Click on this link to access the full interactive plot: [Interactive Plot](https://brookluo.github.io/assets/plotly/bad_exposure/all_3D_interactive.html)
