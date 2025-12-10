@@ -62,7 +62,7 @@ Pairwise Controlled Manifold Approximation ([PaCMAP](https://github.com/YingfanW
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project/avis/pacmap_clustering_half_light_radius_separate.png" title="Image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project/avis/pacmap_clustering_half_light_radius_physical_scale_separate.png" title="Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
