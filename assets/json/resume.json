@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "NSF NOIRLab",
+      "position": "CosmicAI Research Intern",
+      "url": "https://noirlab.edu/",
+      "startDate": "2025-08",
+      "endDate": "2026-01",
+      "summary": "Funded by NSF-Simons CosmicAI's inaugural seed grant to design a multimodal foundation model (AVIS) for astronomical imaging and spectroscopy.",
+      "highlights": ["Foundation models", "Self-supervised learning", "DESI", "Legacy Survey"]
+    },
+    {
       "name": "University of Wyoming",
       "position": "Graduate Research Assistant",
       "url": "http://physics.uwyo.edu/~brook/",
@@ -68,15 +77,22 @@
       // "courses": ["Theory of Relativity"]
     }
   ],
-  // "awards": [
-  //   {
-  //     "title": "Nobel Prize in Physics",
-  //     "date": "1921-11-01",
-  //     "awarder": "Royal Swedish Academy of Sciences",
-  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-  //   }
-  // ],
+  "awards": [
+    {
+      "title": "DESI Contributor",
+      "date": "2026-07",
+      "awarder": "Dark Energy Spectroscopic Instrument (DESI) Collaboration",
+      "url": "https://www.desi.lbl.gov/",
+      "summary": "Contributor status verified in July 2026."
+    },
+    {
+      "title": "CosmicAI Seed Funding Award",
+      "date": "2025-05",
+      "awarder": "NSF-Simons AI Institute for Cosmic Origins",
+      "url": "https://cosmicai.org/news/cosmicai-2025-seed-funding-recepients",
+      "summary": "Inaugural seed grant for a foundation model for trustworthy astronomical source classification with self-supervised learning."
+    }
+  ],
   // "certificates": [
   //   {
   //     "name": "Machine Learning",
@@ -121,29 +137,99 @@
   //     "icon": "fa-solid fa-clipboard-check"
   //   }
   // ],
-  // "publications": [
-  //   {
-  //     "name": "Zur Elektrody/namik bewegter Körper",
-  //     "publisher": "Annalen der Physik",
-  //     "releaseDate": "1905-06-30",
-  //     "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-  //     "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-  //   },
-  //   {
-  //     "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-  //     "publisher": "Annalen der Physik",
-  //     "releaseDate": "1905-03-18",
-  //     "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-  //     "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-  //   },
-  //   {
-  //     "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-  //     "publisher": "Annalen der Physik",
-  //     "releaseDate": "1916-03-20",
-  //     "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-  //     "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-  //   }
-  // ],
+  "publications": [
+    {
+      "name": "ODIN: Spectroscopic Validation of Lyα-Emitting Galaxy Samples with DESI",
+      "publisher": "arXiv:2603.09905",
+      "releaseDate": "2026-03-10",
+      "url": "https://arxiv.org/abs/2603.09905",
+      "summary": "DESI spectroscopy of ODIN-selected Lyman-alpha emitters."
+    },
+    {
+      "name": "Clustering analysis of medium-band selected high-redshift galaxies",
+      "publisher": "JCAP 2026, 03, 019",
+      "releaseDate": "2026-03-01",
+      "url": "https://arxiv.org/abs/2509.26467",
+      "summary": "IBIS + DESI clustering of high-redshift LAE/LBG targets."
+    },
+    {
+      "name": "A Semi-Supervised Learning Method for the Identification of Bad Exposures in Large Imaging Surveys",
+      "publisher": "The Open Journal of Astrophysics",
+      "releaseDate": "2026-02-27",
+      "url": "https://arxiv.org/abs/2507.12784",
+      "summary": "First-author paper on ViT/SSL identification of bad DECam exposures."
+    },
+    {
+      "name": "Data Release 1 of the Dark Energy Spectroscopic Instrument",
+      "publisher": "The Astronomical Journal, 171, 285",
+      "releaseDate": "2026-04-13",
+      "url": "https://arxiv.org/abs/2503.14745",
+      "summary": "DESI collaboration data-release paper."
+    },
+    {
+      "name": "The EDGE-CALIFA Survey: An Extragalactic Database for Galaxy Evolution Studies",
+      "publisher": "The Astrophysical Journal Supplement Series",
+      "releaseDate": "2024-03-01",
+      "url": "https://arxiv.org/abs/2401.13181",
+      "summary": "EDGE-CALIFA extragalactic database paper."
+    },
+    {
+      "name": "General Relativistic Stability and Gravitational Wave Content of Rotating Triaxial Neutron Stars",
+      "publisher": "Symmetry, 16, 343",
+      "releaseDate": "2024-03-01",
+      "url": "https://www.mdpi.com/2073-8994/16/3/343",
+      "summary": "First-author paper on rotating triaxial neutron stars."
+    },
+    {
+      "name": "HPC-driven computational reproducibility in numerical relativity codes: a use case study with IllinoisGRMHD",
+      "publisher": "Classical and Quantum Gravity, 41, 025002",
+      "releaseDate": "2023-12-22",
+      "url": "https://arxiv.org/abs/2307.01343",
+      "summary": "First-author reproducibility study of IllinoisGRMHD."
+    },
+    {
+      "name": "DataVault: a data storage infrastructure for the Einstein Toolkit",
+      "publisher": "Classical and Quantum Gravity, 38, 135016",
+      "releaseDate": "2021-06-01",
+      "url": "https://arxiv.org/abs/2012.06635",
+      "summary": "First-author Einstein Toolkit data-storage paper."
+    },
+    {
+      "name": "The EDGE–CALIFA survey: central molecular gas depletion in AGN host galaxies–a smoking gun for quenching?",
+      "publisher": "Monthly Notices of the Royal Astronomical Society: Letters",
+      "releaseDate": "2021-05-01",
+      "url": "https://academic.oup.com/mnrasl/article/505/1/L46/6270865",
+      "summary": "EDGE-CALIFA AGN quenching letter."
+    },
+    {
+      "name": "The EDGE-CALIFA survey: The resolved star formation efficiency and local physical conditions",
+      "publisher": "The Astrophysical Journal, 923, 60",
+      "releaseDate": "2021-12-01",
+      "url": "https://arxiv.org/abs/2107.14373",
+      "summary": "EDGE-CALIFA resolved star-formation efficiency."
+    },
+    {
+      "name": "The EDGE-CALIFA survey: self-regulation of star formation at kpc scales",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2021-03-01",
+      "url": "https://academic.oup.com/mnras/article/503/3/3643/6169102",
+      "summary": "EDGE-CALIFA self-regulation of star formation."
+    },
+    {
+      "name": "The EDGE--CALIFA survey: the local and global relations between Σ*, ΣSFR, and Σmol that regulate star formation",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2021-04-01",
+      "url": "https://academic.oup.com/mnras/article/503/2/1615/6145645",
+      "summary": "EDGE-CALIFA local and global star-formation relations."
+    },
+    {
+      "name": "The Extragalactic Database for Galaxy Evolution (EDGE)",
+      "publisher": "Proceedings of the International Astronomical Union",
+      "releaseDate": "2021-01-01",
+      "url": "https://doi.org/10.1017/s1743921322003969",
+      "summary": "IAU contribution on the EDGE database."
+    }
+  ],
   "skills": [
     {
       "name": "Physics",

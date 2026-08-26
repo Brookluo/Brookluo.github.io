@@ -23,4 +23,5 @@ end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
+    gem 'ostruct' # required by jekyll-twitter-plugin on Ruby 3.3+/4.0
 end
